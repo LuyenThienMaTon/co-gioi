@@ -5,7 +5,7 @@ import DefaultLayout from './layouts/DefaultLayout';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/co-gioi">
       <div className="App">
         <Routes>
           {publicRoutes.map((route, index) => {
