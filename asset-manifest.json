@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/co-gioi/static/css/main.7ae61dfc.css",
-    "main.js": "/co-gioi/static/js/main.e1d4c775.js",
+    "main.js": "/co-gioi/static/js/main.10f238d4.js",
     "static/js/787.0dde62b0.chunk.js": "/co-gioi/static/js/787.0dde62b0.chunk.js",
     "index.html": "/co-gioi/index.html",
     "main.7ae61dfc.css.map": "/co-gioi/static/css/main.7ae61dfc.css.map",
-    "main.e1d4c775.js.map": "/co-gioi/static/js/main.e1d4c775.js.map",
+    "main.10f238d4.js.map": "/co-gioi/static/js/main.10f238d4.js.map",
     "787.0dde62b0.chunk.js.map": "/co-gioi/static/js/787.0dde62b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ae61dfc.css",
-    "static/js/main.e1d4c775.js"
+    "static/js/main.10f238d4.js"
   ]
 }
