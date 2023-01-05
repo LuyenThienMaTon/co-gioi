@@ -1,5 +1,11 @@
 .wrapper {
-    width: calc(var(--default-layout-width) / 4);
-    color: #fff;
-    background-color: #333;
+    --menu-item-height: 50px;
+    --side-bar-padding: 10px;
+
+    position: fixed;
+    left: 0;
+    width: calc(var(--default-layout-width) / 6);
+    height: 100vh;
+    padding: var(--side-bar-padding) 0;
+    background-color: #0d1117;
 }

@@ -1,0 +1,29 @@
+.menu-item {
+  width: 100%;
+  height: var(--menu-item-height);
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 1.8rem;
+  color: purple;
+
+  &.active {
+    width: 100%;
+    color: #f0f0f0;
+    background-color: #555;
+    border-radius: 0;
+    animation: menu-active 0.3s linear;
+
+    @keyframes menu-active {
+      from {
+        width: 30%;
+        border-radius: 0 50px 50px 0;
+      }
+      to {
+        width: 100%;
+        border-radius: 0;
+      }
+    }
+  }
+}

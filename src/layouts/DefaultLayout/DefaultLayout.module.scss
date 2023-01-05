@@ -9,7 +9,10 @@
 }
 
 .container {
+  position: absolute;
+  top: 0;
   width: var(--default-layout-width);
   max-width: 100%;
+  padding-top: var(--default-layout-header-height);
   display: flex;
 }
